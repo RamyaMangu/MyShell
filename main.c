@@ -1,5 +1,3 @@
-//Ramya Sai Swathi Mangu: 50021174, UCINETID: rmangu, rmangu@uci.edu
-//Jessica Bhalerao: 76535936, UCINETID: jbhalera, jbhalera@uci.edu
 
 #include <stdio.h>
 #include <string.h>
